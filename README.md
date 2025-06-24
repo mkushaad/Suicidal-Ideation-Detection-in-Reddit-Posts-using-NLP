@@ -1,4 +1,4 @@
-Dataset link: https://www.kaggle.com/code/beatricedenardi/suicide-detection-project-nlp-and-ml/input
+Dataset from Kaggle: https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
 
 
 PROJECT REPORT:
@@ -64,4 +64,5 @@ Since the model takes data in general, we can train it for Twitter (now X), Face
 References
 [1] World Health Organization (WHO) [Online]. Report published on 29th Aug 2024. 
       Accessed on 14th Jan 2024:  https://www.who.int/news-room/fact-sheets/detail/suicide
+      
 [2] Dataset from Kaggle: https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
